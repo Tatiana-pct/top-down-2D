@@ -6,6 +6,6 @@ To try the prototype:
 https://play.unity.com/mg/other/webgl-builds-295404
 
 To see the implementation
-link to come
+https://lvl-up.itch.io/top-down-2d
 
 
